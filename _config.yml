@@ -24,9 +24,9 @@ repository               : "SebaM123/SebaM123.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-    name             : "Juan Sebastián Mejías Puga"
+  name             : "Juan Sebastián Mejías Puga"
   pronouns         : # example: "she/her"  
-    bio              : "Ingeniero Comercial, mención en economía. Magíster en economía"
+  bio              : "Ingeniero Comercial, mención en economía. Magíster en economía"
   location         : "Santiago, Chile"
   employer         : "Red Brick University"
   uri              : # URL
