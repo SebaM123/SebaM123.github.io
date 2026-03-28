@@ -9,56 +9,45 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Educación
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **Saint Johns School** (2004 – 2019)
+* **Universidad de Chile** (2020 – 2024)
+  * Ingeniería Comercial, mención en Economía
+* **Universidad de Chile** (2024 – 2025)
+  * Magíster en Economía
+* **Universidad de Chile** (2024)
+  * Minor en Macrofinanzas y Banca
 
-Work experience
+Experiencia
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **Ayudante de Investigación**, Universidad de Chile — Profesor Guillermo Larraín (Jun 2024 – Presente)
+  * Investigación sobre mercados financieros y crecimiento económico.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* **Investigador**, Comisión de Hacienda, Centro Democracia y Comunidad (Mar 2023 – Nov 2023)
+  * Elaboración de minutas, columnas de opinión y seguimiento de discusiones parlamentarias.
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Ayudante de Introducción a la Economía**, Universidad de Chile (Mar 2023 – Jul 2023 y Mar 2025 – Jul 2025)
+  * Elaboración de controles, realización de ayudantías y corrección de exámenes.
 
-Publications
+* **Ayudante de Pensamiento Político y Económico**, Universidad de Chile (Mar 2021 – Jul 2021 y Ago 2025 – Presente)
+  * Elaboración de controles y realización de ayudantías.
+
+* **Practicante**, Depósito Central de Valores de Chile (DCV) (Mar 2023 – Jul 2023)
+  * Análisis del mercado financiero chileno y operaciones con depósitos internacionales de valores.
+
+Investigación
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+* Investigación sobre mercados financieros y crecimiento económico. Utilización de Estudio de eventos y diferencias en diferencias avanzado.
+* **Proyecto de tesis:** El impacto de la violencia en la industria forestal y los efectos de los estados de excepción.
+  * Profesor guía: José Manuel Paz y Miño. Co tutores: Jorge Rivera y Juan Díaz.
+
+Habilidades
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
+* **Idiomas:** Español (nativo), Inglés (avanzado – Certificado Universidad de Cambridge, 2017)
+* **Software:** R (intermedio), Stata (intermedio), Python (intermedio), Matlab (intermedio), Excel (intermedio)
+
+Contactos
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* José Manuel Paz y Miño — jpazm@fen.uchile.cl
+* Guillermo Larraín — glarrain@fen.uchile.cl
