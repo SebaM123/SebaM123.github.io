@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "es-CL"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Juan SebastiÃ¡n MejÃ­as Puga"
+title                    : "Juan Sebastián Mejías Puga"
 title_separator          : "-"
-name                     : &name "Juan SebastiÃ¡n MejÃ­as Puga"
-description              : &description "Sitio personal de Juan Sebastian Mejias Puga - Magister en Economia, Universidad de Chile."
+name                     : &name "Juan Sebastián Mejías Puga"
+description              : &description "Sitio personal de Juan Sebastián Mejías Puga - Magíster en Economía, Universidad de Chile."
 url                      : https://sebam123.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -24,9 +24,9 @@ repository               : "SebaM123/SebaM123.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Juan SebastiÃ¡n MejÃ­as Puga"
+  name             : "Juan Sebastián Mejías Puga"
   pronouns         : # example: "she/her"  
-  bio              : "Magister en Economia, Universidad de Chile. Investigacion en mercados financieros y politica publica."
+  bio              : "Magíster en Economía, Universidad de Chile. Investigación en mercados financieros y política pública."
   location         : "Santiago, Chile"
   employer         : "Universidad de Chile - FEN"
   uri              : # URL
@@ -63,7 +63,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "juan-sebastiÃ¡n-mejÃ­as-puga-943248247"
+  linkedin         : "juan-sebastián-mejías-puga-943248247"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
